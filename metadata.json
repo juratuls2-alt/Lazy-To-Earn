@@ -1,0 +1,6 @@
+{
+  "name": "Lazy To Earn",
+  "description": "Lazy To Earn - Watch ads, refer friends for $10 per invite, build daily streaks, and withdraw seamlessly via bKash, Nagad, and Crypto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
